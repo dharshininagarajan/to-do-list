@@ -10,7 +10,7 @@ To get started with To-Do List locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/charankumaregd/to-do-list.git
+   git clone https://github.com/dharshininagarajan/to-do-list.git
    ```
 
 2. **Navigate to the project directory:**
